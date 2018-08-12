@@ -1,0 +1,8 @@
+name: GoldLimiter
+main: com.chromaclypse.mesanerf.GoldLimiter
+version: ${project.version}
+description: Mesa gold ore -> iron/gold nuggets
+author: ezeiger92
+api-version: 1.13
+commands: {}
+permissions: {}
